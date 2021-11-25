@@ -36,6 +36,9 @@ Step 1: You need to input target site ip..
 Step 2: Inpit Port ( 8008 )
 <br><br>
 You Can Use My <a href="https://github.com/NullS0UL/BasicRecon">BasicRecon</a> Tool For Get Sites Ip...
+<br><br>
+<p align="center"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/NullS0UL/DDOS-STRIKER?style=social">&#160&#160&#160;<img alt="Github stars" src="https://img.shields.io/github/stars/NullS0UL/DDOS-STRIKER?style=social">&#160&#160&#160;<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/NullS0UL/DDOS-STRIKER?style=for-the-badge"><p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
 <i><h3>Contact:</h3></i>
 <li><a href="https://www.facebook.com/nulls0ul.69/">Facebook Profile</a></li>
 <li><a href="https://www.facebook.com/nulls0ul.ofc/">Facebook Page</a></li>
