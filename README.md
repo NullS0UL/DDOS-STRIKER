@@ -15,8 +15,6 @@ preventing regular traffic from reaching its destination...
 <br><br>
 <img src="https://l.top4top.io/p_2150dramt0.jpg" height="wrap_content" width="wrap_content">
 
-![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/NullS0UL/DDOS-STRIKER)
-
 <h3>Usage :</h3>
 
 ```
