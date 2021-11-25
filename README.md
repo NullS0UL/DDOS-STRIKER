@@ -37,11 +37,13 @@ Step 2: Inpit Port ( 8008 )
 <br><br>
 You Can Use My <a href="https://github.com/NullS0UL/BasicRecon">BasicRecon</a> Tool For Get Sites Ip...
 <br><br>
-<p align="center"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/NullS0UL/DDOS-STRIKER?style=social">&#160&#160;<img alt="Github stars" src="https://img.shields.io/github/stars/NullS0UL/DDOS-STRIKER?style=social">&#160&#160;<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/NullS0UL/DDOS-STRIKER?style=social">&#160&#160;<img alt="Github stars" src="https://img.shields.io/github/stars/NullS0UL/DDOS-STRIKER?style=social">&#160&#160;<img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=2.0&x2=0" ></a><br>
 
 <i><h3>Contact:</h3></i>
 <li><a href="https://www.facebook.com/nulls0ul.69/">Facebook Profile</a></li>
 <li><a href="https://www.facebook.com/nulls0ul.ofc/">Facebook Page</a></li>
 <li><a href="https://t.me/NullS0UL/">Telegram</a></li>
 <li><a href="https://nulls0ul.blogspot.com/">Blogsite</a></li>
+<br>
+<i><p align="center"><img title="D3RBYB4B4" src="https://img.shields.io/badge/D3RBYB4B4-%23E4405F.svg?&style=for-the-badge&logo=web&logoColor=white"></a></p></i>
 
