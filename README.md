@@ -15,3 +15,23 @@ preventing regular traffic from reaching its destination...
 <br><br>
 <img src="https://l.top4top.io/p_2150dramt0.jpg" height="wrap_content" width="wrap_content">
 <h3>Usage :</h3>
+
+```
+apt update && apt upgrade
+
+pkg install python
+
+pkg install git
+
+git clone https://github.com/NullS0UL/DDOS-STRIKER
+
+cd DDOS-STRIKER
+
+python ddos.py
+
+```
+Step 1: You need to input target site ip..
+<br>
+Step 2: Inpit Port ( 8008 )
+<br><br>
+You Can Use My <a href="https://github.com/NullS0UL/BasicRecon">BasicRecon</a> Tool For Get Sites Ip...
