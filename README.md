@@ -33,7 +33,7 @@ python ddos.py
 ```
 Step 1: You need to input target site ip..
 <br>
-Step 2: Inpit Port ( 8008 )
+Step 2: Input Port ( 8008 )
 <br><br>
 You Can Use My <a href="https://github.com/NullS0UL/BasicRecon">BasicRecon</a> Tool For Get Sites Ip...
 <br><br>
